@@ -3,4 +3,6 @@ Hey there! I am a programmer nicknamed HAHOOS. I code in C#, Java and Luau. I ma
 
 My hobby is gaming and programming. I like military. I made projects like [DiscordAd](https://github.com/HAHOOS/DiscordAd), [CraftBlocker](https://github.com/HAHOOS/CraftBlocker), [WolfMaintenancePage](https://github.com/HAHOOS/WolfMaintenancePage) and [WolfLifesteal](https://github.com/HAHOOS/WolfLifeSteal).
 
+I have worked for a successful game on Roblox called "Vinay's Kingdom" as a scripter, I made the early scripts of the game
+
 Want to know more? [Click here to see about me page](https://hahoos.carrd.co)
