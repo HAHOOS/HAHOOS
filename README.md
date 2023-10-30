@@ -5,4 +5,4 @@ My hobby is gaming and programming. I like military. I made projects like [Disco
 
 I have worked for a successful game on Roblox called "Vinay's Kingdom" as a scripter, I made the early scripts of the game
 
-Want to know more? [Click here to see about me page](https://hahoos.carrd.co)
+Want to know more? [Click here to see about me page](https://hahoos.pl)
