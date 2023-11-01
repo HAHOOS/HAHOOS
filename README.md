@@ -1,8 +1,15 @@
-# Hello there!
-Hey there! I am a programmer nicknamed HAHOOS. I code in C#, Java and Luau. I made some projects which sadly did not gain any attention from anyone :(
+# Hi there!
 
-My hobby is gaming and programming. I like military. I made projects like [DiscordAd](https://github.com/HAHOOS/DiscordAd), [CraftBlocker](https://github.com/HAHOOS/CraftBlocker), [WolfMaintenancePage](https://github.com/HAHOOS/WolfMaintenancePage) and [WolfLifesteal](https://github.com/HAHOOS/WolfLifeSteal).
+**My username is HAHOOS, but you can also call me Cheese 🧀**
 
-I have worked for a successful game on Roblox called "Vinay's Kingdom" as a scripter, I made the early scripts of the game
+💻 C#, Luau
+🤖 Roblox Developer, Discord Bot Developer
+🏰 Worked in Vinay's Kingdom (1M+ Visits on Roblox)
+🔨 Proud creator of [Discord.NET Project Template](https://github.com/HAHOOS/DiscordNET-Project-Template)
+❔ Other Projects: 
+[RoblocksGroupRanks](https://github.com/HAHOOS/RoblocksGroupRanks)
+[SCPBreachBroadcast](https://github.com/HAHOOS/SCPBreachBroadcast)
+[WolfMaintenacePage](https://github.com/HAHOOS/WolfMaintenancePage)
 
-Want to know more? [Click here to see about me page](https://hahoos.pl)
+💵 Support me here: [Patreon](https://www.patreon.com/HAHOOS)
+
