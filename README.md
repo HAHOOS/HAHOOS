@@ -1,6 +1,6 @@
 # Hi there!
 
-**My username is HAHOOS, but you can also call me RottenCheese** 🧀 
+**I'm HAHOOS, but you can also call me RottenCheese** 🧀 
 
 💻 C#, Luau <br />
 🤖 Roblox Developer, Discord Bot Developer <br />
