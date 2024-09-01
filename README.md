@@ -12,5 +12,5 @@
 [WolfMaintenacePage](https://github.com/HAHOOS/WolfMaintenancePage) <br />
 [KeepInventory | BONELAB Code Mod](https://github.com/HAHOOS/KeepInventory) <br />
 <br />
-💵 Support me here: [Patreon](https://www.patreon.com/HAHOOS) <br />
+💵 Support me here: [Ko-Fi](https://ko-fi.com/hahoos) <br />
 
