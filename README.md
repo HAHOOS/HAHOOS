@@ -5,7 +5,7 @@
 💻 C#, Luau <br />
 🤖 Roblox Developer, Discord Bot Developer <br />
 🏰 Worked in Vinay's Kingdom/Kingdom Life Roleplay (4,5M+ Visits on Roblox) <br />
-🔨 Proud creator of [Discord.NET Project Template](https://github.com/HAHOOS/DiscordNET-Project-Template) <br />
+🔨 Proud creator of [Discord.NET Project Template](https://github.com/HAHOOS/DiscordNET-Project-Template) & [MelonAutoUpdater](https://github.com/HAHOOS/MelonAutoUpdater) <br />
 ❔ Other Projects: <br />
 [RoblocksGroupRanks](https://github.com/HAHOOS/RoblocksGroupRanks) <br />
 [SCPBreachBroadcast](https://github.com/HAHOOS/SCPBreachBroadcast) <br />
