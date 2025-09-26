@@ -4,7 +4,6 @@
 
 💻 C#, Luau <br />
 🤖 Software & Backend Developer (hobby) <br />
-🔨 Proud creator of [MelonAutoUpdater](https://github.com/HAHOOS/MelonAutoUpdater)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R112PZVK)
 
